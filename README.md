@@ -4,7 +4,7 @@
 </div>
 
 <!-- Banner — upload your banner image to the repo and update the path -->
-<img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" width="800" />
+<img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" height="800" width="800" />
 
 <!-- Animated Typing Header -->
 <h1 align="center">
