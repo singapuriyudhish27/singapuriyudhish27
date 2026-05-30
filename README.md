@@ -5,7 +5,7 @@
 
 <!-- Banner — upload your banner image to the repo and update the path -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" width="150" height="150" style="border-radius:50%" />
+  <img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" width="250" height="250" style="border-radius:50%" />
 </div>
 
 <!-- Animated Typing Header -->
