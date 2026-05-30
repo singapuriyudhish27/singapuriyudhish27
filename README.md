@@ -105,11 +105,11 @@ From vector DB to Next.js UI — no handoffs, no gaps, no waiting on another tea
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=singapuriyudhish27&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true" alt="Yudhish's GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=singapuriyudhish27&theme=tokyonight&count_private=true&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=1800" alt="Yudhish's GitHub Stats" />
   <img width="390" src="https://streak-stats.demolab.com/?user=singapuriyudhish27&theme=tokyonight&hide_border=true&border_radius=10" alt="Yudhish's Streak" />
 </div>
 <div align="center">
-  <img width="325" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=singapuriyudhish27&theme=tokyonight&layout=donut&langs_count=8&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=singapuriyudhish27&theme=tokyonight&layout=donut&langs_count=8&border_radius=10&hide_border=true&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <hr>
