@@ -1,10 +1,12 @@
 <!-- Visitor Counter -->
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=singapuriyudhish27&label=Profile+Views&color=534AB7&style=flat" alt="Profile Views" />
-</p>
+</div>
 
 <!-- Banner — upload your banner image to the repo and update the path -->
-<img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" width="150" height="150" style="border-radius:50%" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/singapuriyudhish27/singapuriyudhish27/main/banner.png" alt="Yudhish Singapuri — AI Application Developer" width="150" height="150" style="border-radius:50%" />
+</div>
 
 <!-- Animated Typing Header -->
 <h1 align="center">
